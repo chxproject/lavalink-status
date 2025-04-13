@@ -1,5 +1,5 @@
 module.exports = {
-  token: process.env.token || "", // Your bot token
+  token: process.env.token || "MTM1ODczNzkzMDAwNDMzNjc2MQ.GybZBq.so8x4lkjN5XfkFEY_sh7y8dn-EX1XBbZmgsZq", // Your bot token
   channelId: process.env.channelId || "", //Channel Id you want to send the message
 
   webMonitor: true, // Set to false if you don't want to use web-monitor
