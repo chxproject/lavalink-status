@@ -7,7 +7,7 @@ module.exports = {
 
   nodes: [
     {
-      host: "",
+      host: "Aiko",
       password: "",
       port: 2333,
       identifier: "",
